@@ -35,4 +35,5 @@ To get involved or learn more:
 
 - [Visit our website](https://www.thewpcommunitycollective.com/)
 - [Join The WPCC](https://www.thewpcommunitycollective.com/join/)
-- Contact The WPCC: info@thewpcommunitycollective.com
+
+For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
