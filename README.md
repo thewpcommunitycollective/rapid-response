@@ -18,7 +18,7 @@ This program is designed to support contributors and community initiatives facin
 
 ## Rapid Response Process
 
-The WPCC accepts Rapid Response applications on a rolling basis. All applications are reviewed by The WPCC staff and submitted for evaluation by members of The WPCC. . Requests under $500 are approved directly by the members of The WPCC.
+The WPCC accepts Rapid Response applications on a rolling basis. All applications are reviewed by The WPCC staff and submitted for evaluation by members of The WPCC. Requests under $500 are approved directly by the members of The WPCC.
 
 To submit a Rapid Response request:
 
